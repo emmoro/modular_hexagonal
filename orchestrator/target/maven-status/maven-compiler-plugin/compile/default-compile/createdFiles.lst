@@ -1,0 +1,3 @@
+com\br\elton\designer\patterns\orchestrator\core\impl\OrchestratorJourneyImpl.class
+com\br\elton\designer\patterns\orchestrator\config\StrategyConfig.class
+com\br\elton\designer\patterns\orchestrator\core\OrchestratorJourney.class
