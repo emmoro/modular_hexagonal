@@ -1,0 +1,7 @@
+D:\Tests temporarios\hexagonal_modular\patterns\app\domain\src\main\java\com\br\elton\designer\patterns\domain\strategy\CardStrategy.java
+D:\Tests temporarios\hexagonal_modular\patterns\app\domain\src\main\java\com\br\elton\designer\patterns\domain\enums\CardType.java
+D:\Tests temporarios\hexagonal_modular\patterns\app\domain\src\main\java\com\br\elton\designer\patterns\domain\exceptions\CPFException.java
+D:\Tests temporarios\hexagonal_modular\patterns\app\domain\src\main\java\com\br\elton\designer\patterns\domain\model\CardModel.java
+D:\Tests temporarios\hexagonal_modular\patterns\app\domain\src\main\java\com\br\elton\designer\patterns\domain\port\CardCodePort.java
+D:\Tests temporarios\hexagonal_modular\patterns\app\domain\src\main\java\com\br\elton\designer\patterns\domain\model\ErrorModel.java
+D:\Tests temporarios\hexagonal_modular\patterns\app\domain\src\main\java\com\br\elton\designer\patterns\domain\port\CardPort.java

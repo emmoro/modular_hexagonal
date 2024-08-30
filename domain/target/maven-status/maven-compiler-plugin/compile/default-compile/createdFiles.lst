@@ -1,0 +1,8 @@
+com\br\elton\designer\patterns\domain\enums\CardType.class
+com\br\elton\designer\patterns\domain\strategy\CardStrategy.class
+com\br\elton\designer\patterns\domain\model\ErrorModel.class
+com\br\elton\designer\patterns\domain\model\CardModel.class
+com\br\elton\designer\patterns\domain\exceptions\CPFException.class
+com\br\elton\designer\patterns\domain\model\CardModel$CardModelBuilder.class
+com\br\elton\designer\patterns\domain\port\CardPort.class
+com\br\elton\designer\patterns\domain\port\CardCodePort.class
