@@ -1,0 +1,12 @@
+
+CREATE TABLE card (
+	id INT PRIMARY KEY GENERATED ALWAYS AS IDENTITY,
+	flag VARCHAR (50),
+	card_type VARCHAR(50),
+	expiration_date VARCHAR(10),
+	key VARCHAR(50),
+	cpf VARCHAR(50)
+);
+
+
+select * from card;
