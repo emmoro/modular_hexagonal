@@ -56,6 +56,6 @@ You will need to following tools in order to work with this project and code:
 ## Getting Started
 To run this project locally, perform the following steps:
 
-* Use this command to download the project to your machine: git clone git@gitlab.com:https://github.com/emmoro/modular_hexagonal
+* Use this command to download the project to your machine: git clone git@gitlab.com:https://github.com/emmoro/modular_hexagonal](https://github.com/emmoro/modular_hexagonal.git
 * To install all of its dependencies and start each app, follow the instructions below:
 * To run the server. Application address: http://localhost:8080/v1/save and http://localhost:8080/v1/information
