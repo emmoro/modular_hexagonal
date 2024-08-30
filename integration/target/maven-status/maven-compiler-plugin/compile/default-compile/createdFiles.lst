@@ -1,0 +1,7 @@
+com\br\elton\designer\patterns\integration\feign\client\CardKeyClient.class
+com\br\elton\designer\patterns\integration\db\CardAdapter.class
+com\br\elton\designer\patterns\integration\feign\response\CodeResponse.class
+com\br\elton\designer\patterns\integration\db\repository\CardRepository.class
+com\br\elton\designer\patterns\integration\db\entity\CardEntity$CardEntityBuilder.class
+com\br\elton\designer\patterns\integration\feign\CardKeyAdapter.class
+com\br\elton\designer\patterns\integration\db\entity\CardEntity.class
